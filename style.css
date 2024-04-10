@@ -49,8 +49,8 @@ body {
 }
 
 .main-img {
-  width: 40vw;
-  height: 30vh
+  width: 20vw;
+  height: 25vh
 }
 
 .red-text {
@@ -81,7 +81,7 @@ body {
     margin-right: 0px;
   }
   .main-img {
-    width: 40vw;
+    width: 30vw;
   }
   .button-reset {
     font-size: 5vw;
